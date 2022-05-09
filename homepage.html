@@ -6,29 +6,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HomePage</title>
   <link rel="stylesheet" href="homepage.css">
+ 
+  
+
 </head>
 <body>
     <div id="main">
         <div id="pst">
             <div id="bars">
                 <img id="logo" src="https://cdn.shopify.com/s/files/1/0248/3473/6191/files/BLUEFLY-LOGO-11-20.png?v=1574278243" alt="Logo">
-                <input id="search" type="search" placeholder="Search the item"><span class="fas fa-search"></span>
-                <img id="login" src="https://cdn-icons.flaticon.com/png/128/2321/premium/2321232.png?token=exp=1651854414~hmac=d7db45f3435d51ebb1f825ec6b316f44" alt="Login">
-                <img id="cart" src="https://cdn-icons-png.flaticon.com/128/1170/1170678.png" alt="Add to cart">
+              <a href="search.html"> <input id="search" type="search" placeholder="Search the item"><span class="fas fa-search"></span></a> 
+               <a href="login/signup.html"> <img id="login" src="https://cdn-icons.flaticon.com/png/128/2321/premium/2321232.png?token=exp=1651854414~hmac=d7db45f3435d51ebb1f825ec6b316f44" alt="Login"> </a>
+             <a href="login/signin.html">  <img id="cart" src="https://cdn-icons-png.flaticon.com/128/1170/1170678.png" alt="Add to cart"></a> 
             </div>
             <div id="tabs">
-                <h3>SHOE</h3>
-                <h3>HANDBANGS & ACCESSORIES</h3>
-                <h3>DESIGNERS</h3>
-                <h3>MEN</h3>
-                <h3>WOMEN</h3>
-                <h3>SUNGLASSES</h3>
-                <h3>JEWELRY & WATCHES</h3>
-                <h3>UNDER 50$</h3>
-                <h3>BEAUTY</h3>
+                <a href="">  <h3>SHOE</h3></a>
+                <a href="">    <h3>HANDBANGS & ACCESSORIES</h3></a>
+                <a href="">  <h3>DESIGNERS</h3> </a>
+                <a href="mens/mens.html">  <h3>MEN</h3> </a>
+                <a href="women/womens.html">  <h3>WOMEN</h3> </a>
+                <a href="sunglasses/sunglasses.html">  <h3>SUNGLASSES</h3> </a>
+                <a href="S J/Jewelry/jpage1.html">  <h3>JEWELRY & WATCHES</h3> </a>
+                <a href="S J/under50/jpage2.html"> <h3>UNDER 50$</h3> </a>
+                <a href="product.html"> <h3>BEAUTY</h3>  <a href=""></a>
             
             </div>
-            <h3 id="clr">CLEARANCE</h3>
+            <a href="">  <h3 id="clr">CLEARANCE</h3> </a>
         </div>
            <div class="sld">
 
@@ -121,7 +124,7 @@
                
            </div>
      <h1>New Arrivals</h1>
-     <button>View all</button>
+     <button id="view">View all</button>
      <div id="new">
          <div>
             
@@ -233,7 +236,7 @@
                         <img src="https://cdn.shopify.com/s/files/1/0248/3473/6191/files/WEB_ASSET_2_540x.jpg?v=1650894933">
                         <h2>UP TO 80% OFF LIGHTWEIGHT JACKETS & COATS</h2>
                         <p>Must-Haves From Cole Haan, Burberry, & More</p>
-                        <button id="t2button">Shop Outwear</button>
+                        <button id="t4button">Shop Outwear</button>
                     </div>
                     <div>
                         <img src="https://cdn.shopify.com/s/files/1/0248/3473/6191/products/product-61c338e362f41_3b6c1d0a-19bc-4606-be79-deae0af742b5_large.jpg?v=1651619122">
@@ -263,10 +266,10 @@
                         <p> Subscribe to get exclusive offers on designer brands</p>
                         <input type="text" placeholder="enter your email">
                         <br>
-                        <button>Subscribe</button>
+                        <button id="subs">Subscribe</button>
                         <br>
                         <span> <img id="ins" src="https://cdn-icons-png.flaticon.com/128/1384/1384031.png"></span>
-                        <span> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384005.png"></span>
+                        <span> <img id="fb" src="https://cdn-icons-png.flaticon.com/128/1384/1384005.png"></span>
                           
                     </div>
                 
@@ -284,10 +287,7 @@
     
     
 </body>
+
 </html>
-<script>
-   document.querySelector("#ins").addEventListener("click",function(){
-    
-       window.location.href="https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvnvzbGNdbmhSKdfdpMjQNlzp"
-   });
-</script>
+<script src="homepage.js" ></script>
+

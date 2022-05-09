@@ -466,6 +466,17 @@ span+span{
        margin-top: 1%;
        cursor: pointer;
     }
+    #t4button{
+        text-align: center;
+        /* padding: 15px 30px 15px 30px; */
+        /* background-color:black;
+        color: #fff; */
+        /* border: 1px solid lightcyan; */
+       margin-left:28%;
+       font-size: 20px;
+       margin-top: 1%;
+       cursor: pointer;
+    }
     #t3button{
         text-align: center;
         /* padding: 15px 30px 15px 30px; */
@@ -515,4 +526,10 @@ span+span{
     #box5{
         background-color: white;
         height: 40px;
+    }
+    #ins ,#fb,#box1,#box2,#box3{
+        cursor: pointer;
+    }
+    a{
+        text-decoration: none;
     }
