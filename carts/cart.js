@@ -17,37 +17,35 @@ function decrementValue()
     }
 }
 let testData = [
+   
     {
-        image: "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1111458056_RLLZ_1_large.jpg?v=1651865209",
-        title: "DR. BRANDT",
-       
-        price: "8.99 ",
-        color: "blue"
-    },
-
-    {
-        image: "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1111809028_RLLZ_2_large.jpg?v=1651865207",
-        title: "SHISEIDO",
-        
-        price: "18.99 ",
-        color: "blue"
-    },
-
-    {
-        image: "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/92069216_large.jpg?v=1649458425",
-        title: "SALVATORE FERRAGAMO",
-       
-        price: "83.00 ",
-        color: "blue"
-    },
-
-    {
-        image: "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/92071080_large.jpg?v=1650269361",
-        title: "DOLCE & GABBANA",
-       
-        price: "75.00 ",
-        color: "blue"
-    },
+        img: "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/9301c991-9112-4446-91c1-8b9146a43b81_180x.jpg?v=1620800351",
+        title:
+          "Christian Dior Women's DIOREVOLS-02M2-2K Diorev 58mm Gold and Black Sunglasses",
+        price: 110,
+        color: "Grey",
+      },
+      {
+        img: "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/9301c991-9112-4446-91c1-8b9146a43b81_180x.jpg?v=1620800351",
+        title:
+          "Christian Dior Women's DIOREVOLS-02M2-2K Diorev 58mm Gold and Black Sunglasses",
+        price: 110,
+        color: "Grey",
+      },
+      {
+        img: "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/9301c991-9112-4446-91c1-8b9146a43b81_180x.jpg?v=1620800351",
+        title:
+          "Christian Dior Women's DIOREVOLS-02M2-2K Diorev 58mm Gold and Black Sunglasses",
+        price: 110,
+        color: "Grey",
+      },
+      {
+        img: "https://cdn.shopify.com/s/files/1/0248/3473/6191/products/9301c991-9112-4446-91c1-8b9146a43b81_180x.jpg?v=1620800351",
+        title:
+          "Christian Dior Women's DIOREVOLS-02M2-2K Diorev 58mm Gold and Black Sunglasses",
+        price: 110,
+        color: "Grey",
+      },
     
     ];
     // let cart = JSON.parse(localStorage.getItem("cart")) || [];
