@@ -4,7 +4,7 @@
     -ms-flex-wrap: wrap; /* IE10 */
     flex-wrap: wrap;
     margin: 0 -16px;
-   
+
   
    
   }
@@ -13,7 +13,7 @@
     -ms-flex: 25%; /* IE10 */
     flex: 25%;
   }
-  
+
   
   .col-50 {
     -ms-flex: 50%; /* IE10 */
