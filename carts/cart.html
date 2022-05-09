@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script
+      src="https://kit.fontawesome.com/21bc9a918c.js"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+     
+    </style>
+    <link rel="stylesheet" href="cart.html">
+  </head>
+  <body>
+    <div class="mainCart">
+      <div id="cart">
+        <div id="cartUp">
+          <h2 style="font-family: 'Tiemann', serif">CART</h2
+          ><i class="fa-solid fa-xmark"></i>
+        </div>
+
+        <div id="cartBlock">
+          <!-- data wil appand here -->
+          <div class="cartCard">
+            <img
+              src="https://cdn.shopify.com/s/files/1/0248/3473/6191/products/9301c991-9112-4446-91c1-8b9146a43b81_180x.jpg?v=1620800351"
+              alt=""
+            />
+            <div class="cartDel"
+              ><h2 class="cartT">
+                Christian Dior Women's DIOREVOLS-02M2-2K Diorev 58mm Gold and
+                Black Sunglasses
+              </h2>
+              <p class="cartColor">Grey</p>
+              <p id="priceCart">$116.00</p></div
+            >
+          </div> <div class="container">
+            <div class="cart-icon">
+           <i class="fa-solid fa-bag-shopping"></i>
+            <input type="button" onclick="decrementValue()" value="-"/>
+            <input type="text" name="quantity" value="1" maxlength="2" max="10" size="1" id="number"/>
+            <input type="button" onclick="incrementValue()" value="+"/>
+        </div></div>
+        </div>
+
+        <div id="cartD"
+          ><div id="tot">
+            <h3>SUBTOTAL</h3> <h3 id="TotalCart">$215.00</h3>
+          </div>
+          <p>Shipping, taxes, and discounts codes calculated at checkout.</p>
+          <button onclick="window.location.href='checkout.html'">checkout</button>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="cart.js">
+   
+    
+   
+  </script>
+</html>
