@@ -1,0 +1,33 @@
+#g-container{
+   
+    margin: auto;
+    width: 100%;
+    margin-left:60px;
+}
+#g-container>div{
+    display:flex;
+}
+#g-container>div>h1{
+   margin: auto;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#g-filter{
+    width: 15%;
+   
+}#g-product{
+    width: 70%;
+    /* border: 1px solid black;   */
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.g-image{
+    width: 200px;
+    height: 300px;
+}
+#g-sort{
+    margin-left: 1200px;
+}
+.g-innerdiv{
+    text-align: center;
+    line-height: 14px;
+}
