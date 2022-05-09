@@ -8,5 +8,6 @@ function myFunction() {
         header.classList.add("stayNav");
     }
     else {
-        header.classList.remove("stayNav");}
-};
+        header.classList.remove("stayNav");
+    }
+}
