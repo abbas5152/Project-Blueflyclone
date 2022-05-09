@@ -1,4 +1,6 @@
 document.querySelector('#subs').addEventListener("click",myfunction);
+
+
 function myfunction(){
     alert("You Subscribed Bluefy")
 }
