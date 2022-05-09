@@ -1,0 +1,75 @@
+
+
+
+#womenShoes{
+
+    grid-area: ws
+}
+#womensDesigner{
+
+    grid-area: wd;
+}
+
+#mensShoes{
+    grid-area: ms;
+}
+
+#mensDesigner{
+    grid-area: md;
+}
+
+
+#hoverDiv{
+
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: repeat(1,auto);
+   
+    gap: 10px;
+    grid-template-areas: "ld ws wd ms md rd";
+}
+
+#leftImgDiv{
+
+    margin-top: 17px;
+    margin-left: 10px;
+    grid-area: ld;
+    
+}
+#rightImageDiv{
+
+    margin-top: 17px;
+    grid-area: rd;
+    
+}
+
+@media all and (min-width: 100px) and (max-width: 450px) {
+    #hoverDiv {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(1,auto);
+      gap:10px;
+      grid-template-areas:
+       "ld ws"
+       "wd ms"
+       "md rd"
+    } 
+  }
+
+  @media all and (min-width: 50px) and (max-width: 99px) {
+    #hoverDiv {
+      grid-template-columns: repeat(1, 1fr);
+      grid-template-rows: repeat(1,auto);
+      gap:10px;
+      grid-template-areas:
+       
+
+       "ld"
+       "ws"
+       "wd"
+       "ms"
+       "md"
+       "rd"
+    } 
+  }
+
+ 
