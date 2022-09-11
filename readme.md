@@ -32,6 +32,7 @@ Bluefly.com is an e-commerce web application that widely provides men's clothing
 
   <h4>Homepage</h4>
  ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/homepage1.JPG)
+ 
  ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/homepage2.JPG)
 
  ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/homepage3.JPG)
@@ -42,10 +43,12 @@ Bluefly.com is an e-commerce web application that widely provides men's clothing
   <hr>
   
   <h4>Product Page</h4>
+  
    ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/productpage.JPG)
   
   <hr>
   <h4>Product Details</h4>
+  
    ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/productdetails.JPG)
   <hr>
   <h4>Cart Page</h4> 
