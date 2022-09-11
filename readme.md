@@ -31,7 +31,7 @@ Bluefly.com is an e-commerce web application that widely provides men's clothing
 - Checkout Page
 
   <h4>Homepage</h4>
- <img src="D:\Desktop/homepage1.JPG" alt="ScreenShot currently unavailable"/>
+ <img src="D:\Desktop/homepage1.jpg" alt="ScreenShot currently unavailable"/>
 
  <img src="./frontend/src/assets/readme images/Screenshot from 2022-07-24 12-58-05.png" alt="ScreenShot currently unavailable"/>
 
