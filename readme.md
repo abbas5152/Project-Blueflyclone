@@ -32,30 +32,27 @@ Bluefly.com is an e-commerce web application that widely provides men's clothing
 
   <h4>Homepage</h4>
  ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/homepage1.JPG)
+ ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/homepage2.JPG)
 
- <img src="./frontend/src/assets/readme images/Screenshot from 2022-07-24 12-58-05.png" alt="ScreenShot currently unavailable"/>
-
- <img src="./frontend/src/assets/readme images/Screenshot from 2022-07-24 12-58-12.png" alt="ScreenShot currently unavailable"/>
+ ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/homepage3.JPG)
 
   <h4>Footer</h4>
- <img src="./frontend/src/assets/readme images/Screenshot from 2022-07-24 12-58-20.png" alt="ScreenShot currently unavailable"/>
+ ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/footer.JPG)
 
   <hr>
   
   <h4>Product Page</h4>
-  <img src="./frontend/src/assets/readme images/Screenshot from 2022-07-24 12-58-58.png" alt="ScreenShot currently unavailable"/>
+   ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/productpage.JPG)
   
   <hr>
   <h4>Product Details</h4>
-  <img src="/frontend/src/assets/readme images/Screenshot from 2022-07-24 12-59-10.png" alt="ScreenShot currently unavailable"/>
+   ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/productdetails.JPG)
   <hr>
-  <h4>Cart Page</h4>
- <img src="/frontend/src/assets/readme images/Screenshot from 2022-07-24 12-59-18.png" alt="ScreenShot currently unavailable"/>
+  <h4>Cart Page</h4> 
+  ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/checkout.JPG)
   <hr>
   <h4>Payment and Checkout</h4>
-   <img src="/frontend/src/assets/readme images/Screenshot from 2022-07-24 12-59-32.png" alt="ScreenShot currently unavailable"/>
-  <hr>
-  <h4>Service Page</h4>
+ ![ScreenShot currently unavailable](https://github.com/abbas5152/Project-Blueflyclone/blob/main/payment.JPG)
 
 <h2>Team Members :</h2>
 
