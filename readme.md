@@ -1,6 +1,6 @@
 # Inspired from Bluefly.com
 
-This is Collabrated project and accociated with Masai Shcool.
+This is Collaborated project and associated with Masai School.
 Our main objective is to complete all main functionality of Bluefly.com, such as User Authentication, Add to Cart/ Buy and filter, Sorting of the products, Cart page, Checkout page and payment in a given time constraints.
 
 - [Click here](https://effervescent-moxie-7cbfe5.netlify.app/) to see preview of our project.
